@@ -1,10 +1,16 @@
 _repo: The-Mentor-Beautiful-Buildings-of-the-World-Serial-no-33_51001
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51001-h/images/cover.jpg
 creator:
   author:
     agent_name: Ward, Clarence
     gutenberg_agent_id: '46120'
     url: http://www.gutenberg.org/2009/agents/46120
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51001#The-Mentor-Beautiful-Buildings-of-the-World-Serial-no-33
 gutenberg_issued: '2016-01-22'
 gutenberg_type: Text
 identifiers:
